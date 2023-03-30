@@ -4,17 +4,17 @@
 
 ## Student Team
 
-All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnbXDubI1lBR6j4MNshkQwlGT3yl5JXo6oIBM/edit?usp=sharing)
+All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing)
 
-<!-- 🖥 Teams meeting URL: ❔ -->
+Your team: group ❔
 
-  - Student 1: ❔
+  - Student 1: ❔ (given name + first name)
 
-  - Student 2: ❔
+  - Student 2: ❔ (given name + first name)
 
-  - Student 3: ❔
+  - Student 3: ❔ (given name + first name)
 
-  - Student 4: ❔
+  - Student 4: ❔ (given name + first name)
 
 ## Getting Started
 
