@@ -46,5 +46,5 @@ Your team: group number ❔
      
      - Fill in the available notebooks (a notebook per day).
 
-     - Make sure to save your progress in your GitHub repository regularly and when prompted to do so.   
+     - Save your progress in your GitHub repository regularly!   
       (learn [how to upload files](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)).
