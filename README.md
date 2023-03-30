@@ -22,7 +22,7 @@ Your team: group ❔
      
      - [Create a GitHub account](https://github.com/join) if necessary.
      
-     - Join the [project chat](https://gitter.im/control-engineering-with-python-project-2021-2022/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+     - Join the [project chat](https://gitter.im/control-engineering-with-python/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
      (sign in with your GitHub account).
 
   1. **🎉 Create your own project.**  
