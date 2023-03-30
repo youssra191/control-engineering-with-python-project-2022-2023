@@ -28,7 +28,7 @@ Your team: group ❔
   1. **🎉 Create your own project.**  
      
      - Use this project as a starting point: 
-       click the Fork button to create your own project instance.
+       click the Fork button to create your own project instance.  
        ⚠️ **Only one student needs to do this in each group.**
 
   2. **👥 Register collaborators.**  
