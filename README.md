@@ -6,7 +6,7 @@
 
 All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing)
 
-Your team: group ❔
+Your team: group number ❔
 
   - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
@@ -35,7 +35,7 @@ Your team: group ❔
     
        - Invite all students in the group as collaborators in your project (Collaborators).
       
-       - Add their names to the `README.md` file ("Student Team" section).
+       - Fill the "Student Team" section.
 
        - Invite [@boisgera](https://github.com/boisgera), 
         [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
@@ -46,5 +46,5 @@ Your team: group ❔
      
      - Fill in the available notebooks (a notebook per day).
 
-     - Make sure to save your progress in your GitHub repository **at least twice
-     a day** (learn [how to upload files](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)).
+     - Make sure to save your progress in your GitHub repository regularly and when prompted to do so.   
+      (learn [how to upload files](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)).
