@@ -12,7 +12,7 @@ Your team: group number 12 ❔
 
   - Student 2: ❔ (Elhoussaine + Chahboun + `elhcs`, for example Sébastien Boisgérault `boisgera`)
   
-  - Student 3: ❔ (Aymane + DROUSSI + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: ❔ (Aymane + DROUSSI + `droussiaymane`, for example Sébastien Boisgérault `boisgera`)
 
   - Student 4: ❔ (Yahya + el amraoui + `yhy911`, for example Sébastien Boisgérault `boisgera`)
 
