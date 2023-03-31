@@ -6,15 +6,15 @@
 
 All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group number 12 ❔
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: ❔ (Youssra  + FELIAZOUL + `Youssra191`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: ❔ (Elhoussaine + Chahboun + `github user name`, for example Sébastien Boisgérault `boisgera`)
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: ❔ (Aymane + DROUSSI + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: ❔ (Yahya + el amraoui + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
 ## Getting Started
 
